@@ -1,4 +1,4 @@
-# frontend-roadmap
+# Front-end Roadmap
 Roadmap to becoming a front-end developer
 
 ## :ballot_box_with_check: TODO
