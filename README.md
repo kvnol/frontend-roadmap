@@ -6,4 +6,4 @@ Roadmap to becoming a front-end developer
 - [ ] Definition of page design #1
 
 ## License
-[Licensed by MIT](/LICENSE) &copy; Kevin Oliveira
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
