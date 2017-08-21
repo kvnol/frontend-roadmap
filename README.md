@@ -8,7 +8,7 @@ Roadmap to becoming a front-end developer
 ## :two_men_holding_hands: Contribution
 
 1. Fork this project;
-2. Create a new branch (e.g. `fix-inroduction`);
+2. Create a new branch (e.g. `fix-introduction`);
 3. Make the improvements;
 4. Open a pull request;
 
