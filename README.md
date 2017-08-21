@@ -12,5 +12,12 @@ Roadmap to becoming a front-end developer
 3. Make the improvements;
 4. Open a pull request;
 
+## Contributors
+
+| ![Kevin Oliveira](https://github.com/kvnol.png?size=100px) |
+| --- |
+| [Kevin Oliveira](https://github.com/kvnol) |
+
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
